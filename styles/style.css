@@ -59,3 +59,7 @@ a:hover {
     /* We'll add a margin to the top of the image to give it some space from the text below it */
     margin-top: 16px;
 }
+
+h1 {
+    color: red;
+}
