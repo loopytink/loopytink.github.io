@@ -14,7 +14,8 @@ body {
     replace #f0f0f0 with the colour you want, which you can find by searching for "hex colour picker" online.
      */
     text-align: center;
-    background-color: #dbd0b1;
+    background-color: #dcd1b2;
+    height: 100vh;
 }
 
 .main-section {
@@ -63,4 +64,10 @@ a:hover {
 h1:hover {
     color: rgb(69, 99, 29);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background: linear-gradient(180deg,#d8c89d, #b84848);
+    background-repeat:no-repeat;
+    background-size: 100%;
 }
