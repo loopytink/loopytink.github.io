@@ -60,6 +60,6 @@ a:hover {
     margin-top: 16px;
 }
 
-h1 {
-    color: red;
+h1:hover {
+    color: rgb(69, 99, 29);
 }
